@@ -1,8 +1,13 @@
-Demo:
+## Demo:
 
 ![](https://d2ppvlu71ri8gs.cloudfront.net/items/3u3k1R1k1b1w1Q2b2Y42/freactal-demo.gif)
 
-Problem:
+## Getting started:
+
+- `yarn install`
+- `yarn start`
+
+## Problem:
 
 Children state is not updated when parent passes new props.
 
